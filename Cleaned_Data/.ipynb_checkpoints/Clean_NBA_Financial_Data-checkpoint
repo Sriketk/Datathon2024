@@ -1,0 +1,31 @@
+City,State,Team Name,Arena Cost (millions),Year of Arena Construction,Arena Capacity,022/2023 Revenue (millions),022/2023 Operating Income (millions),022/2023 Player Expenses (millions),2019 Ticket Revenue
+Atlanta,Georgia,Atlanta Hawks,213.5,1999,16600,326,85,159,45.3
+Boston,Massachusetts,Boston Celtics,160.0,1995,19156,443,88,185,72.5
+Brooklyn,New York,Brooklyn Nets,1000.0,2012,17732,367,-5,187,55.1
+Charlotte,North Carolina,Charlotte Hornets,260.0,2005,19077,269,35,165,23.7
+Chicago,Illinois,Chicago Bulls,175.0,1994,20917,372,115,158,70.0
+Cleveland,Ohio,Cleveland Cavaliers,100.0,1994,19432,348,78,158,67.4
+Dallas,Texas,Dallas Mavericks,420.0,2001,19200,429,83,177,57.4
+Denver,Colorado,Denver Nuggets,187.0,1999,19520,348,71,171,41.6
+Detroit,Michigan,Detroit Pistons,862.9,2017,20332,274,83,132,35.8
+San Franciso,California,Golden State Warriors,1400.0,2019,18064,765,79,197,100.4
+Houston,Texas,Houston Rockets,235.0,2003,18055,381,125,145,66.6
+Indianapolis ,Indiana,Indiana Pacers,183.0,1999,17923,263,68,127,34.5
+Los Angeles,California,Los Angeles Clippers,375.0,1999,19068,425,-12,198,63.9
+Los Angeles,California,Los Angeles Lakers,375.0,1999,18997,516,159,177,116.8
+Memphis,Tennessee,Memphis Grizzlies,250.0,2004,17794,258,51,132,21.3
+Miami,Florida,Miami Heat,213.0,1999,19600,371,108,161,75.7
+Milwaukee,Wisconsin,Milwaukee Bucks,1200.0,2018,17500,329,-36,188,46.9
+Minnesota,Minnesota,Minnesota Timberwolves,104.0,1990,18978,259,47,155,29.5
+New Orleans,Louisiana,New Orleans Pelicans,114.0,1999,16867,262,57,154,27.6
+New York,New York,New York Knicks,123.0,1968,19812,504,169,156,109.1
+Oklahoma City,Oklahoma,Oklahoma City Thunder,89.2,2002,18203,267,49,154,52.2
+Orlando,Florida,Orlando Magic,480.0,2010,18846,261,66,132,36.0
+Philadelphia,Pennsylvania,Philadelphia 76ers,210.0,1996,20478,371,120,161,58.7
+Phoenix,Arizona,Phoenix Suns,89.0,1992,17071,366,15,179,37.0
+Portland,Oregon,Portland Trail Blazers,262.0,1995,19441,300,65,156,52.8
+Sacramento,California,Sacramento Kings,558.2,2016,17583,289,36,145,56.1
+San Antonio,Texas,San Antonio Spurs,186.0,2002,18418,319,113,110,56.3
+Toronto,Canada,Toronto Raptors,288.0,1999,19800,305,75,156,63.4
+Salt Lake City,Utah,Utah Jazz,93.0,1991,18306,274,46,154,42.0
+Washington DC,Washington DC,Washington Wizards,260.0,1997,20356,323,85,159,60.9
