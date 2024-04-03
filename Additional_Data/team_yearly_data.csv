@@ -1,0 +1,657 @@
+Year,City,State,Team Name,Arena Cost (millions),Year of Arena Construction,Arena Capacity,Revenue(Millions),Operating Income(Millions),Player Expenses,Ticket Revenue,Win/Loss %
+2022-2023,Atlanta,Georgia,Atlanta Hawks,213.5,1999,16600,326,85,159,73,0.5
+2021-2022,Atlanta,Georgia,Atlanta Hawks,213.5,1999,16600,282,84,121,53,0.524
+2020-2021,Atlanta,Georgia,Atlanta Hawks,213.5,1999,16600,199,37,93,20,0.569
+2019-2020,Atlanta,Georgia,Atlanta Hawks,213.5,1999,16600,222,36,111,31,0.299
+2018-2019,Atlanta,Georgia,Atlanta Hawks,213.5,1999,16600,251,78,95,32,0.354
+2017-2018,Atlanta,Georgia,Atlanta Hawks,213.5,1999,16600,215,42,105,23,0.293
+2016-2017,Atlanta,Georgia,Atlanta Hawks,213.5,1999,16600,209,22,119,27,0.524
+2015-2016,Atlanta,Georgia,Atlanta Hawks,213.5,1999,16600,169,19.8,83,26,0.585
+2014-2015,Atlanta,Georgia,Atlanta Hawks,213.5,1999,16600,142,7,67,30,0.732
+2013-2014,Atlanta,Georgia,Atlanta Hawks,213.5,1999,16600,133,14.8,65,19,0.463
+2012-2013,Atlanta,Georgia,Atlanta Hawks,213.5,1999,16600,119,-3.6,73,20,0.537
+2011-2012,Atlanta,Georgia,Atlanta Hawks,213.5,1999,16600,99,-18.7,65,17,0.606
+2010-2011,Atlanta,Georgia,Atlanta Hawks,213.5,1999,16600,109,-14.7,75,23,0.537
+2009-2010,Atlanta,Georgia,Atlanta Hawks,213.5,1999,16600,105,-7.3,69,,0.646
+2008-2009,Atlanta,Georgia,Atlanta Hawks,213.5,1999,16600,103,-2,70,,0.573
+2007-2008,Atlanta,Georgia,Atlanta Hawks,213.5,1999,16600,102,6.7,60,,0.451
+2006-2007,Atlanta,Georgia,Atlanta Hawks,213.5,1999,16600,95,9.7,52,,0.366
+2005-2006,Atlanta,Georgia,Atlanta Hawks,213.5,1999,16600,92,12.9,47,,0.317
+2004-2005,Atlanta,Georgia,Atlanta Hawks,213.5,1999,16600,87,4.7,44,,0.159
+2003-2004,Atlanta,Georgia,Atlanta Hawks,213.5,1999,16600,83,8.9,58,,0.341
+2002-2003,Atlanta,Georgia,Atlanta Hawks,213.5,1999,16600,78,-8.4,59,,0.427
+2001-2002,Atlanta,Georgia,Atlanta Hawks,213.5,1999,16600,79,4.2,47,,0.402
+2022-2023,Boston,Massachusetts,Boston Celtics,160,1995,19156,443,88,185,116,0.695
+2021-2022,Boston,Massachusetts,Boston Celtics,160,1995,19156,361,137,137,125,0.622
+2020-2021,Boston,Massachusetts,Boston Celtics,160,1995,19156,211,46,98,5,0.5
+2019-2020,Boston,Massachusetts,Boston Celtics,160,1995,19156,274,86,109,67,0.667
+2018-2019,Boston,Massachusetts,Boston Celtics,160,1995,19156,304,88,139,85,0.598
+2017-2018,Boston,Massachusetts,Boston Celtics,160,1995,19156,287,100,114,88,0.671
+2016-2017,Boston,Massachusetts,Boston Celtics,160,1995,19156,257,85,107,79,0.646
+2015-2016,Boston,Massachusetts,Boston Celtics,160,1995,19156,200,60.1,84,57,0.585
+2014-2015,Boston,Massachusetts,Boston Celtics,160,1995,19156,181,57.4,69,56,0.488
+2013-2014,Boston,Massachusetts,Boston Celtics,160,1995,19156,173,54.9,77,58,0.305
+2012-2013,Boston,Massachusetts,Boston Celtics,160,1995,19156,169,46.8,79,62,0.506
+2011-2012,Boston,Massachusetts,Boston Celtics,160,1995,19156,143,18.7,69,58,0.591
+2010-2011,Boston,Massachusetts,Boston Celtics,160,1995,19156,146,7.7,86,59,0.683
+2009-2010,Boston,Massachusetts,Boston Celtics,160,1995,19156,151,4.2,88,,0.61
+2008-2009,Boston,Massachusetts,Boston Celtics,160,1995,19156,144,12.9,84,,0.756
+2007-2008,Boston,Massachusetts,Boston Celtics,160,1995,19156,149,20.1,78,,0.805
+2006-2007,Boston,Massachusetts,Boston Celtics,160,1995,19156,117,18.3,67,,0.293
+2005-2006,Boston,Massachusetts,Boston Celtics,160,1995,19156,111,15.7,66,,0.402
+2004-2005,Boston,Massachusetts,Boston Celtics,160,1995,19156,110,25.4,68,,0.549
+2003-2004,Boston,Massachusetts,Boston Celtics,160,1995,19156,104,8.4,54,,0.439
+2002-2003,Boston,Massachusetts,Boston Celtics,160,1995,19156,97,25.6,56,,0.537
+2001-2002,Boston,Massachusetts,Boston Celtics,160,1995,19156,96,17.4,48,,0.598
+2022-2023,Brooklyn,New York,Brooklyn Nets,1000,2012,17732,367,-5,187,71,0.549
+2021-2022,Brooklyn,New York,Brooklyn Nets,1000,2012,17732,405,-34,174,76,0.537
+2020-2021,Brooklyn,New York,Brooklyn Nets,1000,2012,17732,212,-80,156,14,0.667
+2019-2020,Brooklyn,New York,Brooklyn Nets,1000,2012,17732,280,44,98,54,0.486
+2018-2019,Brooklyn,New York,Brooklyn Nets,1000,2012,17732,304,42,135,60,0.512
+2017-2018,Brooklyn,New York,Brooklyn Nets,1000,2012,17732,290,53,106,61,0.341
+2016-2017,Brooklyn,New York,Brooklyn Nets,1000,2012,17732,273,52,96,57,0.244
+2015-2016,Brooklyn,New York,Brooklyn Nets,1000,2012,17732,223,15.7,92,57,0.256
+2014-2015,Brooklyn,New York,Brooklyn Nets,1000,2012,17732,220,-5.7,99,63,0.463
+2013-2014,Brooklyn,New York,Brooklyn Nets,1000,2012,17732,212,-99.4,115,64,0.537
+2012-2013,Brooklyn,New York,Brooklyn Nets,1000,2012,17732,190,-19,94,54,0.598
+2011-2012,Newark,New Jersey,New Jersey Nets,374,2007,18500,84,-16.6,58,14,0.333
+2010-2011,Newark,New Jersey,New Jersey Nets,374,2007,18500,89,-23.6,66,20,0.293
+2009-2010,East Rutherford,New Jersey,New Jersey Nets,85,1981,"20,049",89,-10.2,64,,0.146
+2008-2009,East Rutherford,New Jersey,New Jersey Nets,85,1981,"20,049",92,-13.9,67,,0.415
+2007-2008,East Rutherford,New Jersey,New Jersey Nets,85,1981,"20,049",98,-0.9,67,,0.415
+2006-2007,East Rutherford,New Jersey,New Jersey Nets,85,1981,"20,049",102,-1.3,68,,0.5
+2005-2006,East Rutherford,New Jersey,New Jersey Nets,85,1981,"20,049",93,-8,70,,0.598
+2004-2005,East Rutherford,New Jersey,New Jersey Nets,85,1981,"20,049",87,-7.4,60,,0.512
+2003-2004,East Rutherford,New Jersey,New Jersey Nets,85,1981,"20,049",93,-6.1,67,,0.573
+2002-2003,East Rutherford,New Jersey,New Jersey Nets,85,1981,"20,049",94,-1.6,63,,0.598
+2001-2002,East Rutherford,New Jersey,New Jersey Nets,85,1981,"20,049",91,4.5,54,,0.634
+2022-2023,Charlotte,North Carolina,Charlotte Hornets,260,2005,19077,269,35,165,35,0.329
+2021-2022,Charlotte,North Carolina,Charlotte Hornets,260,2005,19077,269,94,105,31,0.524
+2020-2021,Charlotte,North Carolina,Charlotte Hornets,260,2005,19077,183,34,93,1,0.458
+2019-2020,Charlotte,North Carolina,Charlotte Hornets,260,2005,19077,215,36,114,20,0.354
+2018-2019,Charlotte,North Carolina,Charlotte Hornets,260,2005,19077,240,39,127,28,0.476
+2017-2018,Charlotte,North Carolina,Charlotte Hornets,260,2005,19077,213,22,127,27,0.439
+2016-2017,Charlotte,North Carolina,Charlotte Hornets,260,2005,19077,202,21,115,26,0.439
+2015-2016,Charlotte,North Carolina,Charlotte Hornets,260,2005,19077,158,9.4,88,27,0.585
+2014-2015,Charlotte,North Carolina,Charlotte Hornets,260,2005,19077,142,3.7,82,24,0.402
+2013-2014,Charlotte,North Carolina,Charlotte Hornets,260,2005,19077,130,1.2,79,21,0.524
+2012-2013,Charlotte,North Carolina,Charlotte Hornets,260,2005,19077,115,7,64,19,0.256
+2011-2012,Charlotte,North Carolina,Charlotte Hornets,260,2005,19077,93,-13.3,52,14,0.106
+2010-2011,Charlotte,North Carolina,Charlotte Hornets,260,2005,19077,101,-25.5,70,19,0.415
+2009-2010,Charlotte,North Carolina,Charlotte Hornets,260,2005,19077,98,-20,73,,0.537
+2008-2009,Charlotte,North Carolina,Charlotte Hornets,260,2005,19077,96,-15.1,69,,0.427
+2007-2008,Charlotte,North Carolina,Charlotte Hornets,260,2005,19077,95,-4.9,59,,0.39
+2006-2007,Charlotte,North Carolina,Charlotte Hornets,260,2005,19077,93,5.3,46,,0.402
+2005-2006,Charlotte,North Carolina,Charlotte Hornets,260,2005,19077,89,11.9,37,,0.317
+2004-2005,Charlotte,North Carolina,Charlotte Hornets,260,2005,19077,73,,28,,0.22
+2022-2023,Chicago,Illinois,Chicago Bulls,175,1994,20917,372,115,158,81,0.488
+2021-2022,Chicago,Illinois,Chicago Bulls,175,1994,20917,352,135,117,92,0.561
+2020-2021,Chicago,Illinois,Chicago Bulls,175,1994,20917,213,39,106,2,0.431
+2019-2020,Chicago,Illinois,Chicago Bulls,175,1994,20917,300,115,106,65,0.338
+2018-2019,Chicago,Illinois,Chicago Bulls,175,1994,20917,301,103,115,61,0.268
+2017-2018,Chicago,Illinois,Chicago Bulls,175,1994,20917,287,114,96,62,0.329
+2016-2017,Chicago,Illinois,Chicago Bulls,175,1994,20917,281,95,105,71,0.5
+2015-2016,Chicago,Illinois,Chicago Bulls,175,1994,20917,232,45.5,105,66,0.512
+2014-2015,Chicago,Illinois,Chicago Bulls,175,1994,20917,228,67.6,87,72,0.61
+2013-2014,Chicago,Illinois,Chicago Bulls,175,1994,20917,201,65.3,73,65,0.585
+2012-2013,Chicago,Illinois,Chicago Bulls,175,1994,20917,195,52.2,75,64,0.549
+2011-2012,Chicago,Illinois,Chicago Bulls,175,1994,20917,162,34.2,62,47,0.758
+2010-2011,Chicago,Illinois,Chicago Bulls,175,1994,20917,185,59.4,58,63,0.756
+2009-2010,Chicago,Illinois,Chicago Bulls,175,1994,20917,169,51.3,74,,0.5
+2008-2009,Chicago,Illinois,Chicago Bulls,175,1994,20917,168,51,72,,0.5
+2007-2008,Chicago,Illinois,Chicago Bulls,175,1994,20917,165,55.4,67,,0.402
+2006-2007,Chicago,Illinois,Chicago Bulls,175,1994,20917,161,59.3,59,,0.598
+2005-2006,Chicago,Illinois,Chicago Bulls,175,1994,20917,149,48.5,61,,0.5
+2004-2005,Chicago,Illinois,Chicago Bulls,175,1994,20917,136,36.8,60,,0.573
+2003-2004,Chicago,Illinois,Chicago Bulls,175,1994,20917,123,34.7,57,,0.28
+2002-2003,Chicago,Illinois,Chicago Bulls,175,1994,20917,119,49,47,,0.366
+2001-2002,Chicago,Illinois,Chicago Bulls,175,1994,20917,115,39.1,43,,0.256
+2022-2023,Cleveland,Ohio,Cleveland Cavaliers,100,1994,19432,348,78,158,84,0.622
+2021-2022,Cleveland,Ohio,Cleveland Cavaliers,100,1994,19432,325,74,128,77,0.537
+2020-2021,Cleveland,Ohio,Cleveland Cavaliers,100,1994,19432,211,11,110,4,0.306
+2019-2020,Cleveland,Ohio,Cleveland Cavaliers,100,1994,19432,269,46,120,54,0.292
+2018-2019,Cleveland,Ohio,Cleveland Cavaliers,100,1994,19432,300,39,137,69,0.232
+2017-2018,Cleveland,Ohio,Cleveland Cavaliers,100,1994,19432,302,-13,152,77,0.61
+2016-2017,Cleveland,Ohio,Cleveland Cavaliers,100,1994,19432,280,-6.2,149,76,0.622
+2015-2016,Cleveland,Ohio,Cleveland Cavaliers,100,1994,19432,233,-40.2,131,67,0.695
+2014-2015,Cleveland,Ohio,Cleveland Cavaliers,100,1994,19432,191,24.8,87,52,0.646
+2013-2014,Cleveland,Ohio,Cleveland Cavaliers,100,1994,19432,149,20.6,74,29,0.402
+2012-2013,Cleveland,Ohio,Cleveland Cavaliers,100,1994,19432,145,10.8,72,30,0.293
+2011-2012,Cleveland,Ohio,Cleveland Cavaliers,100,1994,19432,128,18.6,57,24,0.318
+2010-2011,Cleveland,Ohio,Cleveland Cavaliers,100,1994,19432,149,32.9,58,43,0.232
+2009-2010,Cleveland,Ohio,Cleveland Cavaliers,100,1994,19432,161,2.6,90,,0.744
+2008-2009,Cleveland,Ohio,Cleveland Cavaliers,100,1994,19432,159,5,94,,0.805
+2007-2008,Cleveland,Ohio,Cleveland Cavaliers,100,1994,19432,159,13.1,85,,0.549
+2006-2007,Cleveland,Ohio,Cleveland Cavaliers,100,1994,19432,152,31.9,69,,0.61
+2005-2006,Cleveland,Ohio,Cleveland Cavaliers,100,1994,19432,115,23.9,55,,0.61
+2004-2005,Cleveland,Ohio,Cleveland Cavaliers,100,1994,19432,102,21.9,52,,0.512
+2003-2004,Cleveland,Ohio,Cleveland Cavaliers,100,1994,19432,93,16,50,,0.427
+2002-2003,Cleveland,Ohio,Cleveland Cavaliers,100,1994,19432,72,3.8,53,,0.207
+2001-2002,Cleveland,Ohio,Cleveland Cavaliers,100,1994,19432,79,5.9,46,,0.354
+2022-2023,Dallas,Texas,Dallas Mavericks,420,2001,19200,429,83,177,67,0.463
+2021-2022,Dallas,Texas,Dallas Mavericks,420,2001,19200,364,143,117,105,0.634
+2020-2021,Dallas,Texas,Dallas Mavericks,420,2001,19200,231,55,87,9,0.583
+2019-2020,Dallas,Texas,Dallas Mavericks,420,2001,19200,295,84,112,53,0.573
+2018-2019,Dallas,Texas,Dallas Mavericks,420,2001,19200,307,105,108,52,0.402
+2017-2018,Dallas,Texas,Dallas Mavericks,420,2001,19200,287,99,92,43,0.293
+2016-2017,Dallas,Texas,Dallas Mavericks,420,2001,19200,233,21,127,42,0.402
+2015-2016,Dallas,Texas,Dallas Mavericks,420,2001,19200,194,40.3,86,44,0.512
+2014-2015,Dallas,Texas,Dallas Mavericks,420,2001,19200,177,24.3,90,45,0.61
+2013-2014,Dallas,Texas,Dallas Mavericks,420,2001,19200,168,30.4,82,45,0.598
+2012-2013,Dallas,Texas,Dallas Mavericks,420,2001,19200,162,37.5,75,42,0.5
+2011-2012,Dallas,Texas,Dallas Mavericks,420,2001,19200,137,13,67,35,0.545
+2010-2011,Dallas,Texas,Dallas Mavericks,420,2001,19200,166,-3.9,88,53,0.695
+2009-2010,Dallas,Texas,Dallas Mavericks,420,2001,19200,146,-7.8,81,,0.671
+2008-2009,Dallas,Texas,Dallas Mavericks,420,2001,19200,154,-17.4,99,,0.61
+2007-2008,Dallas,Texas,Dallas Mavericks,420,2001,19200,153,-13.6,103,,0.622
+2006-2007,Dallas,Texas,Dallas Mavericks,420,2001,19200,140,-1.6,91,,0.817
+2005-2006,Dallas,Texas,Dallas Mavericks,420,2001,19200,140,-24.4,97,,0.732
+2004-2005,Dallas,Texas,Dallas Mavericks,420,2001,19200,124,-33.6,95,,0.707
+2003-2004,Dallas,Texas,Dallas Mavericks,420,2001,19200,117,-17.8,83,,0.634
+2002-2003,Dallas,Texas,Dallas Mavericks,420,2001,19200,117,-17.7,75,,0.732
+2001-2002,Dallas,Texas,Dallas Mavericks,420,2001,19200,105,3.2,58,,0.695
+2022-2023,Denver,Colorado,Denver Nuggets,187,1999,19520,348,71,171,85,0.646
+2021-2022,Denver,Colorado,Denver Nuggets,187,1999,19520,273,67,138,50,0.585
+2020-2021,Denver,Colorado,Denver Nuggets,187,1999,19520,185,15,109,9,0.653
+2019-2020,Denver,Colorado,Denver Nuggets,187,1999,19520,218,27,123,37,0.63
+2018-2019,Denver,Colorado,Denver Nuggets,187,1999,19520,252,52,131,47,0.659
+2017-2018,Denver,Colorado,Denver Nuggets,187,1999,19520,222,47,116,33,0.561
+2016-2017,Denver,Colorado,Denver Nuggets,187,1999,19520,202,49,95,26,0.488
+2015-2016,Denver,Colorado,Denver Nuggets,187,1999,19520,157,21.2,81,24,0.402
+2014-2015,Denver,Colorado,Denver Nuggets,187,1999,19520,140,26.3,64,26,0.366
+2013-2014,Denver,Colorado,Denver Nuggets,187,1999,19520,136,14,77,30,0.439
+2012-2013,Denver,Colorado,Denver Nuggets,187,1999,19520,124,8,75,35,0.695
+2011-2012,Denver,Colorado,Denver Nuggets,187,1999,19520,110,12,53,26,0.576
+2010-2011,Denver,Colorado,Denver Nuggets,187,1999,19520,113,-1.2,69,31,0.61
+2009-2010,Denver,Colorado,Denver Nuggets,187,1999,19520,113,-11.7,79,,0.646
+2008-2009,Denver,Colorado,Denver Nuggets,187,1999,19520,115,4.6,72,,0.659
+2007-2008,Denver,Colorado,Denver Nuggets,187,1999,19520,112,-26.3,87,,0.61
+2006-2007,Denver,Colorado,Denver Nuggets,187,1999,19520,104,-4.8,70,,0.549
+2005-2006,Denver,Colorado,Denver Nuggets,187,1999,19520,100,9.4,60,,0.537
+2004-2005,Denver,Colorado,Denver Nuggets,187,1999,19520,94,25.2,48,,0.598
+2003-2004,Denver,Colorado,Denver Nuggets,187,1999,19520,89,12.3,43,,0.524
+2002-2003,Denver,Colorado,Denver Nuggets,187,1999,19520,75,7.9,52,,0.207
+2001-2002,Denver,Colorado,Denver Nuggets,187,1999,19520,75,-5,53,,0.329
+2022-2023,Detroit,Michigan,Detroit Pistons,862.9,2017,20332,274,83,132,46,0.207
+2021-2022,Detroit,Michigan,Detroit Pistons,862.9,2017,20332,278,92,127,39,0.28
+2020-2021,Detroit,Michigan,Detroit Pistons,862.9,2017,20332,192,43,100,1,0.278
+2019-2020,Detroit,Michigan,Detroit Pistons,862.9,2017,20332,227,45,123,32,0.303
+2018-2019,Detroit,Michigan,Detroit Pistons,862.9,2017,20332,255,52,138,47,0.5
+2017-2018,Detroit,Michigan,Detroit Pistons,862.9,2017,20332,235,52,127,44,0.476
+2016-2017,Auburn Hills,Michigan,Detroit Pistons,90,1988,"22,076",221,22,123,22,0.451
+2015-2016,Auburn Hills,Michigan,Detroit Pistons,90,1988,"22,076",172,21.8,81,22,0.537
+2014-2015,Auburn Hills,Michigan,Detroit Pistons,90,1988,"22,076",154,16,71,22,0.39
+2013-2014,Auburn Hills,Michigan,Detroit Pistons,90,1988,"22,076",144,17.6,69,19,0.354
+2012-2013,Auburn Hills,Michigan,Detroit Pistons,90,1988,"22,076",139,10.3,76,19,0.354
+2011-2012,Auburn Hills,Michigan,Detroit Pistons,90,1988,"22,076",125,7.7,59,15,0.379
+2010-2011,Auburn Hills,Michigan,Detroit Pistons,90,1988,"22,076",141,9.7,70,21,0.366
+2009-2010,Auburn Hills,Michigan,Detroit Pistons,90,1988,"22,076",147,31.8,64,,0.329
+2008-2009,Auburn Hills,Michigan,Detroit Pistons,90,1988,"22,076",171,46.9,75,,0.476
+2007-2008,Auburn Hills,Michigan,Detroit Pistons,90,1988,"22,076",160,40.4,70,,0.72
+2006-2007,Auburn Hills,Michigan,Detroit Pistons,90,1988,"22,076",154,39.2,63,,0.646
+2005-2006,Auburn Hills,Michigan,Detroit Pistons,90,1988,"22,076",138,21.8,63,,0.78
+2004-2005,Auburn Hills,Michigan,Detroit Pistons,90,1988,"22,076",134,23,58,,0.659
+2003-2004,Auburn Hills,Michigan,Detroit Pistons,90,1988,"22,076",121,25,57,,0.659
+2002-2003,Auburn Hills,Michigan,Detroit Pistons,90,1988,"22,076",102,23.5,51,,0.61
+2001-2002,Auburn Hills,Michigan,Detroit Pistons,90,1988,"22,076",95,12.9,42,,0.61
+2022-2023,San Francisco,California,Golden State Warriors,1400,2019,18064,765,79,197,230,0.537
+2021-2022,San Francisco,California,Golden State Warriors,1400,2019,18064,765,206,169,257,0.646
+2020-2021,San Francisco,California,Golden State Warriors,1400,2019,18064,258,-44,147,7,0.542
+2019-2020,San Francisco,California,Golden State Warriors,1400,2019,18064,474,200,129,150,0.231
+2018-2019,Oakland,California,Golden State Warriors,121,1996,19596,440,109,156,178,0.695
+2017-2018,Oakland,California,Golden State Warriors,121,1996,19596,401,103,147,164,0.707
+2016-2017,Oakland,California,Golden State Warriors,121,1996,19596,359,120,119,143,0.817
+2015-2016,Oakland,California,Golden State Warriors,121,1996,19596,305,74.2,111,134,0.89
+2014-2015,Oakland,California,Golden State Warriors,121,1996,19596,201,57.6,80,77,0.817
+2013-2014,Oakland,California,Golden State Warriors,121,1996,19596,168,44.9,78,55,0.622
+2012-2013,Oakland,California,Golden State Warriors,121,1996,19596,160,43,77,50,0.573
+2011-2012,Oakland,California,Golden State Warriors,121,1996,19596,127,29.1,55,31,0.348
+2010-2011,Oakland,California,Golden State Warriors,121,1996,19596,139,22.2,73,41,0.439
+2009-2010,Oakland,California,Golden State Warriors,121,1996,19596,119,14.3,70,,0.317
+2008-2009,Oakland,California,Golden State Warriors,121,1996,19596,113,11.9,70,,0.354
+2007-2008,Oakland,California,Golden State Warriors,121,1996,19596,112,14.2,65,,0.585
+2006-2007,Oakland,California,Golden State Warriors,121,1996,19596,103,1.3,69,,0.512
+2005-2006,Oakland,California,Golden State Warriors,121,1996,19596,89,6.3,61,,0.415
+2004-2005,Oakland,California,Golden State Warriors,121,1996,19596,81,8.1,58,,0.415
+2003-2004,Oakland,California,Golden State Warriors,121,1996,19596,76,-3.1,56,,0.451
+2002-2003,Oakland,California,Golden State Warriors,121,1996,19596,70,7.8,51,,0.463
+2001-2002,Oakland,California,Golden State Warriors,121,1996,19596,71,-0.6,48,,0.256
+2001/02,Houston,Texas,Houston Rockets,18,1975,"15,676",82,6.7,49,,0.341
+2002/03,Houston,Texas,Houston Rockets,18,1975,"15,676",82,15.2,53,,0.524
+2003/04,Houston,Texas,Houston Rockets,235,2003,18055,125,25.8,59,,0.549
+2004/05,Houston,Texas,Houston Rockets,235,2003,18055,141,35.5,63,,0.622
+2005/06,Houston,Texas,Houston Rockets,235,2003,18055,142,21.4,73,,0.415
+2006/07,Houston,Texas,Houston Rockets,235,2003,18055,149,29.7,68,,0.634
+2007/08,Houston,Texas,Houston Rockets,235,2003,18055,156,31.2,75,,0.671
+2008/09,Houston,Texas,Houston Rockets,235,2003,18055,160,30.3,78,,0.646
+2009/10,Houston,Texas,Houston Rockets,235,2003,18055,153,35.9,67,,0.512
+2010/11,Houston,Texas,Houston Rockets,235,2003,18055,150,17.9,70,38,0.524
+2011/12,Houston,Texas,Houston Rockets,235,2003,18055,135,26.6,52,28,0.515
+2012/13,Houston,Texas,Houston Rockets,235,2003,18055,191,63.7,68,49,0.549
+2013/14,Houston,Texas,Houston Rockets,235,2003,18055,175,38,76,61,0.659
+2014/15,Houston,Texas,Houston Rockets,235,2003,18055,237,74.6,85,75,0.683
+2015/16,Houston,Texas,Houston Rockets,235,2003,18055,244,62.7,103,69,0.5
+2016/17,Houston,Texas,Houston Rockets,235,2003,18055,296,95,108,74,0.671
+2017/18,Houston,Texas,Houston Rockets,235,2003,18055,326,103,130,91,0.793
+2018/19,Houston,Texas,Houston Rockets,235,2003,18055,348,110,146,97,0.646
+2019/20,Houston,Texas,Houston Rockets,235,2003,18055,308,94,124,73,0.611
+2020/21,Houston,Texas,Houston Rockets,235,2003,18055,223,33,113,9,0.236
+2021/22,Houston,Texas,Houston Rockets,235,2003,18055,350,113,128,86,0.244
+2022/23,Houston,Texas,Houston Rockets,235,2003,18055,381,125,145,87,0.268
+2001/02,Indianapolis,Indiana,Indiana Pacers,183,1999,17923,91,3.1,54,,0.512
+2002/03,Indianapolis,Indiana,Indiana Pacers,183,1999,17923,94,10.1,56,,0.585
+2003/04,Indianapolis,Indiana,Indiana Pacers,183,1999,17923,104,8.5,61,,0.744
+2004/05,Indianapolis,Indiana,Indiana Pacers,183,1999,17923,108,2.6,59,,0.537
+2005/06,Indianapolis,Indiana,Indiana Pacers,183,1999,17923,110,-12.5,79,,0.5
+2006/07,Indianapolis,Indiana,Indiana Pacers,183,1999,17923,107,-1.3,67,,0.427
+2007/08,Indianapolis,Indiana,Indiana Pacers,183,1999,17923,101,-6.5,70,,0.439
+2008/09,Indianapolis,Indiana,Indiana Pacers,183,1999,17923,97,-15.7,74,,0.439
+2009/10,Indianapolis,Indiana,Indiana Pacers,183,1999,17923,95,-16.9,71,,0.39
+2010/11,Indianapolis,Indiana,Indiana Pacers,183,1999,17923,101,-10.5,70,16,0.451
+2011/12,Indianapolis,Indiana,Indiana Pacers,183,1999,17923,98,10.9,48,15,0.636
+2012/13,Indianapolis,Indiana,Indiana Pacers,183,1999,17923,121,11.6,73,21,0.605
+2013/14,Indianapolis,Indiana,Indiana Pacers,183,1999,17923,139,25,74,26,0.683
+2014/15,Indianapolis,Indiana,Indiana Pacers,183,1999,17923,138,19,75,20,0.463
+2015/16,Indianapolis,Indiana,Indiana Pacers,183,1999,17923,157,23.9,83,25,0.549
+2016/17,Indianapolis,Indiana,Indiana Pacers,183,1999,17923,205,29,106,26,0.512
+2017/18,Indianapolis,Indiana,Indiana Pacers,183,1999,17923,222,50,104,28,0.585
+2018/19,Indianapolis,Indiana,Indiana Pacers,183,1999,17923,243,55,119,32,0.585
+2019/20,Indianapolis,Indiana,Indiana Pacers,183,1999,17923,217,39,106,31,0.616
+2020/21,Indianapolis,Indiana,Indiana Pacers,183,1999,17923,179,4.1,113,4,0.472
+2021/22,Indianapolis,Indiana,Indiana Pacers,183,1999,17923,264,65,127,32,0.305
+2022/23,Indianapolis,Indiana,Indiana Pacers,183,1999,17923,263,68,127,33,0.427
+2001/02,Los Angeles,California,Los Angeles Clippers,375,1999,19068,73,16.3,34,,0.476
+2002/03,Los Angeles,California,Los Angeles Clippers,375,1999,19068,72,15.9,46,,0.329
+2003/04,Los Angeles,California,Los Angeles Clippers,375,1999,19068,77,14.6,42,,0.341
+2004/05,Los Angeles,California,Los Angeles Clippers,375,1999,19068,83,22.4,44,,0.451
+2005/06,Los Angeles,California,Los Angeles Clippers,375,1999,19068,95,15.7,55,,0.573
+2006/07,Los Angeles,California,Los Angeles Clippers,375,1999,19068,98,9.8,63,,0.488
+2007/08,Los Angeles,California,Los Angeles Clippers,375,1999,19068,99,10.7,62,,0.28
+2008/09,Los Angeles,California,Los Angeles Clippers,375,1999,19068,102,10,67,,0.232
+2009/10,Los Angeles,California,Los Angeles Clippers,375,1999,19068,102,11,62,,0.354
+2010/11,Los Angeles,California,Los Angeles Clippers,375,1999,19068,108,9.4,58,29,0.39
+2011/12,Los Angeles,California,Los Angeles Clippers,375,1999,19068,108,9.1,62,29,0.606
+2012/13,Los Angeles,California,Los Angeles Clippers,375,1999,19068,128,15,80,41,0.683
+2013/14,Los Angeles,California,Los Angeles Clippers,375,1999,19068,146,20.1,79,51,0.695
+2014/15,Los Angeles,California,Los Angeles Clippers,375,1999,19068,176,20.6,92,59,0.683
+2015/16,Los Angeles,California,Los Angeles Clippers,375,1999,19068,185,-11.8,116,56,0.646
+2016/17,Los Angeles,California,Los Angeles Clippers,375,1999,19068,257,35,137,67,0.622
+2017/18,Los Angeles,California,Los Angeles Clippers,375,1999,19068,258,40,135,57,0.512
+2018/19,Los Angeles,California,Los Angeles Clippers,375,1999,19068,282,73,128,64,0.585
+2019/20,Los Angeles,California,Los Angeles Clippers,375,1999,19068,262,57,122,51,0.681
+2020/21,Los Angeles,California,Los Angeles Clippers,375,1999,19068,219,18,124,9,0.653
+2021/22,Los Angeles,California,Los Angeles Clippers,375,1999,19068,362,12,169,59,0.512
+2022/23,Los Angeles,California,Los Angeles Clippers,375,1999,19068,425,-12,198,51,0.537
+2001/02,Los Angeles,California,Los Angeles Lakers,375,1999,18997,152,44.1,56,,0.707
+2002/03,Los Angeles,California,Los Angeles Lakers,375,1999,18997,149,22.8,66,,0.61
+2003/04,Los Angeles,California,Los Angeles Lakers,375,1999,18997,170,38.2,69,,0.683
+2004/05,Los Angeles,California,Los Angeles Lakers,375,1999,18997,156,35.8,66,,0.415
+2005/06,Los Angeles,California,Los Angeles Lakers,375,1999,18997,167,33.3,77,,0.549
+2006/07,Los Angeles,California,Los Angeles Lakers,375,1999,18997,170,31.8,81,,0.512
+2007/08,Los Angeles,California,Los Angeles Lakers,375,1999,18997,191,47.9,77,,0.695
+2008/09,Los Angeles,California,Los Angeles Lakers,375,1999,18997,209,51.1,83,,0.793
+2009/10,Los Angeles,California,Los Angeles Lakers,375,1999,18997,214,33.4,91,,0.695
+2010/11,Los Angeles,California,Los Angeles Lakers,375,1999,18997,108,24.3,95,85,0.695
+2011/12,Los Angeles,California,Los Angeles Lakers,375,1999,18997,197,47.6,76,74,0.621
+2012/13,Los Angeles,California,Los Angeles Lakers,375,1999,18997,295,66.4,110,94,0.549
+2013/14,Los Angeles,California,Los Angeles Lakers,375,1999,18997,293,104.1,89,96,0.329
+2014/15,Los Angeles,California,Los Angeles Lakers,375,1999,18997,304,133.4,76,98,0.256
+2015/16,Los Angeles,California,Los Angeles Lakers,375,1999,18997,333,119.2,84,99,0.207
+2016/17,Los Angeles,California,Los Angeles Lakers,375,1999,18997,371,136,108,93,0.317
+2017/18,Los Angeles,California,Los Angeles Lakers,375,1999,18997,395,147,112,96,0.427
+2018/19,Los Angeles,California,Los Angeles Lakers,375,1999,18997,434,178,120,104,0.451
+2019/20,Los Angeles,California,Los Angeles Lakers,375,1999,18997,400,155,114,80,0.732
+2020/21,Los Angeles,California,Los Angeles Lakers,375,1999,18997,316,63,123,10,0.583
+2021/22,Los Angeles,California,Los Angeles Lakers,375,1999,18997,465,115,163,102,0.402
+2022/23,Los Angeles,California,Los Angeles Lakers,375,1999,18997,516,159,177,99,0.524
+2001/02,Memphis,Tennessee,Memphis Grizzlies,65,1991,"20,142",66,0.6,45,,0.28
+2002/03,Memphis,Tennessee,Memphis Grizzlies,65,1991,"20,142",63,-19.7,54,,0.341
+2003/04,Memphis,Tennessee,Memphis Grizzlies,65,1991,"20,142",75,-15.6,61,,0.61
+2004/05,Memphis,Tennessee,Memphis Grizzlies,250,2004,17794,98,-4.1,70,,0.549
+2005/06,Memphis,Tennessee,Memphis Grizzlies,250,2004,17794,101,-18.5,71,,0.598
+2006/07,Memphis,Tennessee,Memphis Grizzlies,250,2004,17794,98,-10.9,66,,0.268
+2007/08,Memphis,Tennessee,Memphis Grizzlies,250,2004,17794,95,-3.2,58,,0.268
+2008/09,Memphis,Tennessee,Memphis Grizzlies,250,2004,17794,88,-7.1,59,,0.293
+2009/10,Memphis,Tennessee,Memphis Grizzlies,250,2004,17794,92,-2.6,59,,0.488
+2010/11,Memphis,Tennessee,Memphis Grizzlies,250,2004,17794,99,-24.8,75,19,0.561
+2011/12,Memphis,Tennessee,Memphis Grizzlies,250,2004,17794,96,-12.5,63,15,0.621
+2012/13,Memphis,Tennessee,Memphis Grizzlies,250,2004,17794,126,11.2,71,25,0.683
+2013/14,Memphis,Tennessee,Memphis Grizzlies,250,2004,17794,135,10.5,79,24,0.61
+2014/15,Memphis,Tennessee,Memphis Grizzlies,250,2004,17794,147,10.3,81,27,0.671
+2015/16,Memphis,Tennessee,Memphis Grizzlies,250,2004,17794,155,0.2,95,23,0.512
+2016/17,Memphis,Tennessee,Memphis Grizzlies,250,2004,17794,206,15,125,25,0.524
+2017/18,Memphis,Tennessee,Memphis Grizzlies,250,2004,17794,213,27,121,22,0.268
+2018/19,Memphis,Tennessee,Memphis Grizzlies,250,2004,17794,224,24,136,20,0.402
+2019/20,Memphis,Tennessee,Memphis Grizzlies,250,2004,17794,210,22,118,18,0.466
+2020/21,Memphis,Tennessee,Memphis Grizzlies,250,2004,17794,186,12,106,5,0.528
+2021/22,Memphis,Tennessee,Memphis Grizzlies,250,2004,17794,272,107,93,44,0.683
+2022/23,Memphis,Tennessee,Memphis Grizzlies,250,2004,17794,258,51,132,34,0.622
+2001/02,Miami ,Florida,Miami Heat,213,1999,19600,96,8.1,53,,0.439
+2002/03,Miami ,Florida,Miami Heat,213,1999,19600,91,7.9,49,,0.305
+2003/04,Miami ,Florida,Miami Heat,213,1999,19600,93,11.5,50,,0.512
+2004/05,Miami ,Florida,Miami Heat,213,1999,19600,119,18.6,63,,0.72
+2005/06,Miami ,Florida,Miami Heat,213,1999,19600,132,20.5,64,,0.634
+2006/07,Miami ,Florida,Miami Heat,213,1999,19600,131,17.9,68,,0.537
+2007/08,Miami ,Florida,Miami Heat,213,1999,19600,131,-1.1,79,,0.183
+2008/09,Miami ,Florida,Miami Heat,213,1999,19600,126,8,74,,0.524
+2009/10,Miami ,Florida,Miami Heat,213,1999,19600,124,-5.9,78,,0.573
+2010/11,Miami ,Florida,Miami Heat,213,1999,19600,158,26,69,67,0.707
+2011/12,Miami ,Florida,Miami Heat,213,1999,19600,150,14.9,68,61,0.697
+2012/13,Miami ,Florida,Miami Heat,213,1999,19600,188,29.2,90,81,0.805
+2013/14,Miami ,Florida,Miami Heat,213,1999,19600,188,12.6,94,89,0.659
+2014/15,Miami ,Florida,Miami Heat,213,1999,19600,180,20.8,89,67,0.451
+2015/16,Miami ,Florida,Miami Heat,213,1999,19600,210,21.1,104,75,0.585
+2016/17,Miami ,Florida,Miami Heat,213,1999,19600,253,63,104,68,0.5
+2017/18,Miami ,Florida,Miami Heat,213,1999,19600,259,40,131,76,0.537
+2018/19,Miami ,Florida,Miami Heat,213,1999,19600,294,58,144,70,0.476
+2019/20,Miami ,Florida,Miami Heat,213,1999,19600,266,38,126,56,0.603
+2020/21,Miami ,Florida,Miami Heat,213,1999,19600,218,16,112,16,0.556
+2021/22,Miami ,Florida,Miami Heat,213,1999,19600,326,83,138,111,0.646
+2022/23,Miami ,Florida,Miami Heat,213,1999,19600,371,108,161,106,0.537
+2001/02,Milwaukee,Wisconsin,Milwaukee Bucks,91,1988,"18,633",67,-8.5,56,,0.5
+2002/03,Milwaukee,Wisconsin,Milwaukee Bucks,91,1988,"18,633",70,-15.1,62,,0.512
+2003/04,Milwaukee,Wisconsin,Milwaukee Bucks,91,1988,"18,633",77,-1.5,57,,0.5
+2004/05,Milwaukee,Wisconsin,Milwaukee Bucks,91,1988,"18,633",78,4.8,61,,0.366
+2005/06,Milwaukee,Wisconsin,Milwaukee Bucks,91,1988,"18,633",87,1.5,67,,0.488
+2006/07,Milwaukee,Wisconsin,Milwaukee Bucks,91,1988,"18,633",88,1.7,68,,0.341
+2007/08,Milwaukee,Wisconsin,Milwaukee Bucks,91,1988,"18,633",94,5.4,66,,0.317
+2008/09,Milwaukee,Wisconsin,Milwaukee Bucks,91,1988,"18,633",91,-7.4,75,,0.415
+2009/10,Milwaukee,Wisconsin,Milwaukee Bucks,91,1988,"18,633",92,-2,69,,0.561
+2010/11,Milwaukee,Wisconsin,Milwaukee Bucks,91,1988,"18,633",92,-7.6,66,19,0.427
+2011/12,Milwaukee,Wisconsin,Milwaukee Bucks,91,1988,"18,633",87,-0.5,54,14,0.47
+2012/13,Milwaukee,Wisconsin,Milwaukee Bucks,91,1988,"18,633",109,11.5,68,21,0.463
+2013/14,Milwaukee,Wisconsin,Milwaukee Bucks,91,1988,"18,633",110,11.5,69,17,0.183
+2014/15,Milwaukee,Wisconsin,Milwaukee Bucks,91,1988,"18,633",126,11.6,71,24,0.5
+2015/16,Milwaukee,Wisconsin,Milwaukee Bucks,91,1988,"18,633",146,24,80,25,0.402
+2016/17,Milwaukee,Wisconsin,Milwaukee Bucks,91,1988,"18,633",179,20,109,28,0.512
+2017/18,Milwaukee,Wisconsin,Milwaukee Bucks,91,1988,"18,633",204,25,127,35,0.537
+2018/19,Milwaukee,Wisconsin,Milwaukee Bucks,1200,2018,17500,283,69,126,65,0.732
+2019/20,Milwaukee,Wisconsin,Milwaukee Bucks,1200,2018,17500,239,27,125,46,0.767
+2020/21,Milwaukee,Wisconsin,Milwaukee Bucks,1200,2018,17500,212,11,121,26,0.639
+2021/22,Milwaukee,Wisconsin,Milwaukee Bucks,1200,2018,17500,352,51,151,85,0.622
+2022/23,Milwaukee,Wisconsin,Milwaukee Bucks,1200,2018,17500,329,-36,188,50,0.707
+2001/02,Minnesota,Minnesota,Minnesota Timberwolves,104,1990,18978,85,8.8,8.8,,0.61
+2002/03,Minnesota,Minnesota,Minnesota Timberwolves,104,1990,18978,85,6.9,6.9,,0.622
+2003/04,Minnesota,Minnesota,Minnesota Timberwolves,104,1990,18978,97,-5,-5,,0.707
+2004/05,Minnesota,Minnesota,Minnesota Timberwolves,104,1990,18978,101,-20,-20,,0.537
+2005/06,Minnesota,Minnesota,Minnesota Timberwolves,104,1990,18978,103,4.6,4.6,,0.402
+2006/07,Minnesota,Minnesota,Minnesota Timberwolves,104,1990,18978,103,-1.9,-1.9,,0.39
+2007/08,Minnesota,Minnesota,Minnesota Timberwolves,104,1990,18978,100,-5.7,-5.7,,0.268
+2008/09,Minnesota,Minnesota,Minnesota Timberwolves,104,1990,18978,96,-6.8,-6.8,,0.293
+2009/10,Minnesota,Minnesota,Minnesota Timberwolves,104,1990,18978,95,-6.7,-6.7,,0.183
+2010/11,Minnesota,Minnesota,Minnesota Timberwolves,104,1990,18978,97,-6.8,-6.8,13,0.207
+2011/12,Minnesota,Minnesota,Minnesota Timberwolves,104,1990,18978,96,-4.5,-4.5,16,0.394
+2012/13,Minnesota,Minnesota,Minnesota Timberwolves,104,1990,18978,116,-2.7,-2.7,18,0.378
+2013/14,Minnesota,Minnesota,Minnesota Timberwolves,104,1990,18978,128,6.9,6.9,16,0.488
+2014/15,Minnesota,Minnesota,Minnesota Timberwolves,104,1990,18978,146,15.1,15.1,19,0.195
+2015/16,Minnesota,Minnesota,Minnesota Timberwolves,104,1990,18978,154,25.9,25.9,19,0.354
+2016/17,Minnesota,Minnesota,Minnesota Timberwolves,104,1990,18978,204,53,53,23,0.378
+2017/18,Minnesota,Minnesota,Minnesota Timberwolves,104,1990,18978,223,47,47,36,0.573
+2018/19,Minnesota,Minnesota,Minnesota Timberwolves,104,1990,18978,234,46,46,33,0.439
+2019/20,Minnesota,Minnesota,Minnesota Timberwolves,104,1990,18978,214,32,32,24,0.297
+2020/21,Minnesota,Minnesota,Minnesota Timberwolves,104,1990,18978,199,29,29,,0.319
+2021/22,Minnesota,Minnesota,Minnesota Timberwolves,104,1990,18978,271,87,87,44,0.561
+2022/23,Minnesota,Minnesota,Minnesota Timberwolves,104,1990,18978,259,47,47,39,0.512
+2002/03,New Orleans,Louisiana,New Orleans Pelicans,114,1999,16867,80,21.9,48,,0.573
+2003/04,New Orleans,Louisiana,New Orleans Pelicans,114,1999,16867,80,-3.9,52,,0.5
+2004/05,New Orleans,Louisiana,New Orleans Pelicans,114,1999,16867,78,17.1,56,,0.22
+2005/06,New Orleans,Louisiana,New Orleans Pelicans,114,1999,16867,83,12.9,45,,0.463
+2006/07,New Orleans,Louisiana,New Orleans Pelicans,114,1999,16867,91,10.2,58,,0.476
+2007/08,New Orleans,Louisiana,New Orleans Pelicans,114,1999,16867,95,3.2,66,,0.683
+2008/09,New Orleans,Louisiana,New Orleans Pelicans,114,1999,16867,95,-0.1,68,,0.598
+2009/10,New Orleans,Louisiana,New Orleans Pelicans,114,1999,16867,100,-5.9,74,,0.451
+2010/11,New Orleans,Louisiana,New Orleans Pelicans,114,1999,16867,109,-2.7,73,28,0.561
+2011/12,New Orleans,Louisiana,New Orleans Pelicans,114,1999,16867,100,3.3,59,22,0.318
+2012/13,New Orleans,Louisiana,New Orleans Pelicans,114,1999,16867,116,11.2,70,25,0.329
+2013/14,New Orleans,Louisiana,New Orleans Pelicans,114,1999,16867,131,19,74,27,0.415
+2014/15,New Orleans,Louisiana,New Orleans Pelicans,114,1999,16867,142,19.7,80,30,0.549
+2015/16,New Orleans,Louisiana,New Orleans Pelicans,114,1999,16867,156,16.7,93,29,0.366
+2016/17,New Orleans,Louisiana,New Orleans Pelicans,114,1999,16867,204,37,117,30,0.415
+2017/18,New Orleans,Louisiana,New Orleans Pelicans,114,1999,16867,214,29,133,38,0.585
+2018/19,New Orleans,Louisiana,New Orleans Pelicans,114,1999,16867,224,49,127,33,0.402
+2019/20,New Orleans,Louisiana,New Orleans Pelicans,114,1999,16867,209,44,111,28,0.417
+2020/21,New Orleans,Louisiana,New Orleans Pelicans,114,1999,16867,181,24,109,3,0.431
+2021/22,New Orleans,Louisiana,New Orleans Pelicans,114,1999,16867,268,94,121,47,0.439
+2022/23,New Orleans,Louisiana,New Orleans Pelicans,114,1999,16867,262,57,154,39,0.512
+2001/02,New York,New York,New York Knicks,123,1968,19812,156,25.1,86,,0.366
+2002/03,New York,New York,New York Knicks,123,1968,19812,160,13.5,80,,0.451
+2003/04,New York,New York,New York Knicks,123,1968,19812,170,25.2,96,,0.476
+2004/05,New York,New York,New York Knicks,123,1968,19812,181,-14.3,100,,0.402
+2005/06,New York,New York,New York Knicks,123,1968,19812,185,-39,118,,0.28
+2006/07,New York,New York,New York Knicks,123,1968,19812,196,-42.2,121,,0.402
+2007/08,New York,New York,New York Knicks,123,1968,19812,208,29.6,100,,0.28
+2008/09,New York,New York,New York Knicks,123,1968,19812,202,21,97,,0.39
+2009/10,New York,New York,New York Knicks,123,1968,19812,226,64,86,,0.354
+2010/11,New York,New York,New York Knicks,123,1968,19812,244,74.9,74,92,0.512
+2011/12,New York,New York,New York Knicks,123,1968,19812,243,83.2,68,94,0.545
+2012/13,New York,New York,New York Knicks,123,1968,19812,287,96.3,89,125,0.659
+2013/14,New York,New York,New York Knicks,123,1968,19812,278,53.4,95,119,0.451
+2014/15,New York,New York,New York Knicks,123,1968,19812,307,108.9,88,128,0.207
+2015/16,New York,New York,New York Knicks,123,1968,19812,376,141.2,86,130,0.39
+2016/17,New York,New York,New York Knicks,123,1968,19812,426,140,117,130,0.378
+2017/18,New York,New York,New York Knicks,123,1968,19812,443,155,115,127,0.354
+2018/19,New York,New York,New York Knicks,123,1968,19812,472,157,134,132,0.207
+2019/20,New York,New York,New York Knicks,123,1968,19812,421,178,103,108,0.318
+2020/21,New York,New York,New York Knicks,123,1968,19812,298,71,87,18,0.569
+2021/22,New York,New York,New York Knicks,123,1968,19812,452,155,111,133,0.451
+2022/23,New York,New York,New York Knicks,123,1968,19812,504,169,156,154,0.573
+2001/02,Oklahoma City,Oklahoma,Oklahoma City Thunder,89.2,2002,18203,77,6.3,46,,0.549
+2002/03,Oklahoma City,Oklahoma,Oklahoma City Thunder,89.2,2002,18203,70,2.4,56,,0.488
+2003/04,Oklahoma City,Oklahoma,Oklahoma City Thunder,89.2,2002,18203,73,-7.8,55,,0.451
+2004/05,Oklahoma City,Oklahoma,Oklahoma City Thunder,89.2,2002,18203,81,0.5,57,,0.634
+2005/06,Oklahoma City,Oklahoma,Oklahoma City Thunder,89.2,2002,18203,81,3.6,53,,0.427
+2006/07,Oklahoma City,Oklahoma,Oklahoma City Thunder,89.2,2002,18203,81,-5.7,61,,0.378
+2007/08,Oklahoma City,Oklahoma,Oklahoma City Thunder,89.2,2002,18203,82,-9.4,65,,0.244
+2008/09,Oklahoma City,Oklahoma,Oklahoma City Thunder,89.2,2002,18203,111,12.7,73,,0.28
+2009/10,Oklahoma City,Oklahoma,Oklahoma City Thunder,89.2,2002,18203,118,22.6,62,,0.61
+2010/11,Oklahoma City,Oklahoma,Oklahoma City Thunder,89.2,2002,18203,126,24.5,60,48,0.671
+2011/12,Oklahoma City,Oklahoma,Oklahoma City Thunder,89.2,2002,18203,127,29.9,54,43,0.712
+2012/13,Oklahoma City,Oklahoma,Oklahoma City Thunder,89.2,2002,18203,144,33.3,74,49,0.732
+2013/14,Oklahoma City,Oklahoma,Oklahoma City Thunder,89.2,2002,18203,152,30.8,78,54,0.72
+2014/15,Oklahoma City,Oklahoma,Oklahoma City Thunder,89.2,2002,18203,157,20.9,87,48,0.549
+2015/16,Oklahoma City,Oklahoma,Oklahoma City Thunder,89.2,2002,18203,187,-8.4,122,59,0.671
+2016/17,Oklahoma City,Oklahoma,Oklahoma City Thunder,89.2,2002,18203,222,64,102,57,0.573
+2017/18,Oklahoma City,Oklahoma,Oklahoma City Thunder,89.2,2002,18203,241,10,146,60,0.585
+2018/19,Oklahoma City,Oklahoma,Oklahoma City Thunder,89.2,2002,18203,258,-23,162,63,0.598
+2019/20,Oklahoma City,Oklahoma,Oklahoma City Thunder,89.2,2002,18203,236,51,123,52,0.611
+2020/21,Oklahoma City,Oklahoma,Oklahoma City Thunder,89.2,2002,18203,183,48,91,,0.306
+2021/22,Oklahoma City,Oklahoma,Oklahoma City Thunder,89.2,2002,18203,274,129,77,45,0.293
+2022/23,Oklahoma City,Oklahoma,Oklahoma City Thunder,89.2,2002,18203,267,49,154,47,0.488
+2001/02,Orlando,Florida,Orlando Magic,110,1989,"17,461",82,82,47,,0.537
+2002/03,Orlando,Florida,Orlando Magic,110,1989,"17,461",80,80,54,,0.512
+2003/04,Orlando,Florida,Orlando Magic,110,1989,"17,461",78,78,54,,0.256
+2004/05,Orlando,Florida,Orlando Magic,110,1989,"17,461",82,82,71,,0.439
+2005/06,Orlando,Florida,Orlando Magic,110,1989,"17,461",89,89,79,,0.439
+2006/07,Orlando,Florida,Orlando Magic,110,1989,"17,461",92,92,65,,0.488
+2007/08,Orlando,Florida,Orlando Magic,110,1989,"17,461",100,100,62,,0.634
+2008/09,Orlando,Florida,Orlando Magic,110,1989,"17,461",107,107,74,,0.72
+2009/10,Orlando,Florida,Orlando Magic,110,1989,"17,461",108,108,86,,0.72
+2010/11,Orlando,Florida,Orlando Magic,480,2010,18846,140,140,95,43,0.634
+2011/12,Orlando,Florida,Orlando Magic,480,2010,18846,126,126,76,35,0.561
+2012/13,Orlando,Florida,Orlando Magic,480,2010,18846,139,139,91,39,0.244
+2013/14,Orlando,Florida,Orlando Magic,480,2010,18846,143,143,86,34,0.28
+2014/15,Orlando,Florida,Orlando Magic,480,2010,18846,143,143,66,34,0.305
+2015/16,Orlando,Florida,Orlando Magic,480,2010,18846,166,166,73,36,0.427
+2016/17,Orlando,Florida,Orlando Magic,480,2010,18846,211,211,119,35,0.354
+2017/18,Orlando,Florida,Orlando Magic,480,2010,18846,223,223,108,35,0.305
+2018/19,Orlando,Florida,Orlando Magic,480,2010,18846,244,244,120,43,0.512
+2019/20,Orlando,Florida,Orlando Magic,480,2010,18846,218,218,122,33,0.452
+2020/21,Orlando,Florida,Orlando Magic,480,2010,18846,188,188,110,5,0.292
+2021/22,Orlando,Florida,Orlando Magic,480,2010,18846,272,272,111,38,0.268
+2022/23,Orlando,Florida,Orlando Magic,480,2010,18846,261,261,132,44,0.415
+2001/02,Philadelphia,Pennsylvania,Philadelphia 76ers,210,1996,20478,106,18.1,53,,0.524
+2002/03,Philadelphia,Pennsylvania,Philadelphia 76ers,210,1996,20478,109,2,61,,0.585
+2003/04,Philadelphia,Pennsylvania,Philadelphia 76ers,210,1996,20478,107,0.7,63,,0.402
+2004/05,Philadelphia,Pennsylvania,Philadelphia 76ers,210,1996,20478,110,7.2,70,,0.524
+2005/06,Philadelphia,Pennsylvania,Philadelphia 76ers,210,1996,20478,110,-6.2,78,,0.463
+2006/07,Philadelphia,Pennsylvania,Philadelphia 76ers,210,1996,20478,112,-2.8,75,,0.427
+2007/08,Philadelphia,Pennsylvania,Philadelphia 76ers,210,1996,20478,116,0.3,78,,0.488
+2008/09,Philadelphia,Pennsylvania,Philadelphia 76ers,210,1996,20478,115,7.6,70,,0.5
+2009/10,Philadelphia,Pennsylvania,Philadelphia 76ers,210,1996,20478,110,-1.2,69,,0.329
+2010/11,Philadelphia,Pennsylvania,Philadelphia 76ers,210,1996,20478,116,-10.3,73,26,0.5
+2011/12,Philadelphia,Pennsylvania,Philadelphia 76ers,210,1996,20478,107,-0.8,60,26,0.53
+2012/13,Philadelphia,Pennsylvania,Philadelphia 76ers,210,1996,20478,117,-3.8,83,27,0.415
+2013/14,Philadelphia,Pennsylvania,Philadelphia 76ers,210,1996,20478,125,24.4,60,22,0.232
+2014/15,Philadelphia,Pennsylvania,Philadelphia 76ers,210,1996,20478,124,13.9,60,21,0.22
+2015/16,Philadelphia,Pennsylvania,Philadelphia 76ers,210,1996,20478,140,18.2,73,23,0.122
+2016/17,Philadelphia,Pennsylvania,Philadelphia 76ers,210,1996,20478,184,40,89,26,0.341
+2017/18,Philadelphia,Pennsylvania,Philadelphia 76ers,210,1996,20478,268,68,105,59,0.634
+2018/19,Philadelphia,Pennsylvania,Philadelphia 76ers,210,1996,20478,300,90,117,71,0.622
+2019/20,Philadelphia,Pennsylvania,Philadelphia 76ers,210,1996,20478,259,51,120,48,0.589
+2020/21,Philadelphia,Pennsylvania,Philadelphia 76ers,210,1996,20478,236,13,128,13,0.681
+2021/22,Philadelphia,Pennsylvania,Philadelphia 76ers,210,1996,20478,345,87,143,83,0.622
+2022/23,Philadelphia,Pennsylvania,Philadelphia 76ers,210,1996,20478,371,120,161,122,0.659
+2001/02,Phoenix,Arizona,Phoenix Suns,89,1992,17071,107,18.3,56,,0.439
+2002/03,Phoenix,Arizona,Phoenix Suns,89,1992,17071,109,21.5,58,,0.537
+2003/04,Phoenix,Arizona,Phoenix Suns,89,1992,17071,111,40.4,66,,0.354
+2004/05,Phoenix,Arizona,Phoenix Suns,89,1992,17071,132,20.1,48,,0.756
+2005/06,Phoenix,Arizona,Phoenix Suns,89,1992,17071,132,34.5,57,,0.659
+2006/07,Phoenix,Arizona,Phoenix Suns,89,1992,17071,145,37.3,66,,0.744
+2007/08,Phoenix,Arizona,Phoenix Suns,89,1992,17071,148,28.9,72,,0.671
+2008/09,Phoenix,Arizona,Phoenix Suns,89,1992,17071,148,20.7,80,,0.561
+2009/10,Phoenix,Arizona,Phoenix Suns,89,1992,17071,147,20.4,69,,0.659
+2010/11,Phoenix,Arizona,Phoenix Suns,89,1992,17071,136,13.1,71,40,0.488
+2011/12,Phoenix,Arizona,Phoenix Suns,89,1992,17071,121,13,60,28,0.5
+2012/13,Phoenix,Arizona,Phoenix Suns,89,1992,17071,137,28.2,65,32,0.305
+2013/14,Phoenix,Arizona,Phoenix Suns,89,1992,17071,145,28.2,70,33,0.585
+2014/15,Phoenix,Arizona,Phoenix Suns,89,1992,17071,154,21.8,76,35,0.476
+2015/16,Phoenix,Arizona,Phoenix Suns,89,1992,17071,173,26.3,85,36,0.28
+2016/17,Phoenix,Arizona,Phoenix Suns,89,1992,17071,218,31,96,36,0.293
+2017/18,Phoenix,Arizona,Phoenix Suns,89,1992,17071,235,47,97,36,0.256
+2018/19,Phoenix,Arizona,Phoenix Suns,89,1992,17071,246,42,115,34,0.232
+2019/20,Phoenix,Arizona,Phoenix Suns,89,1992,17071,222,20,112,30,0.466
+2020/21,Phoenix,Arizona,Phoenix Suns,89,1992,17071,206,15,107,25,0.708
+2021/22,Phoenix,Arizona,Phoenix Suns,89,1992,17071,302,87,108,76,0.78
+2022/23,Phoenix,Arizona,Phoenix Suns,89,1992,17071,366,15,179,78,0.549
+2001/02,Portland,Oregon,Portland Trail Blazers,262,1995,19441,96,-22.8,84,,0.598
+2002/03,Portland,Oregon,Portland Trail Blazers,262,1995,19441,97,-85.1,100,,0.61
+2003/04,Portland,Oregon,Portland Trail Blazers,262,1995,19441,88,-31.5,74,,0.5
+2004/05,Portland,Oregon,Portland Trail Blazers,262,1995,19441,78,-47,87,,0.329
+2005/06,Portland,Oregon,Portland Trail Blazers,262,1995,19441,77,-15.2,66,,0.256
+2006/07,Portland,Oregon,Portland Trail Blazers,262,1995,19441,82,-25.1,82,,0.39
+2007/08,Portland,Oregon,Portland Trail Blazers,262,1995,19441,114,-0.9,73,,0.5
+2008/09,Portland,Oregon,Portland Trail Blazers,262,1995,19441,121,-20.3,87,,0.659
+2009/10,Portland,Oregon,Portland Trail Blazers,262,1995,19441,127,10.7,64,,0.61
+2010/11,Portland,Oregon,Portland Trail Blazers,262,1995,19441,132,-8.1,76,43,0.585
+2011/12,Portland,Oregon,Portland Trail Blazers,262,1995,19441,117,-10.1,70,31,0.424
+2012/13,Portland,Oregon,Portland Trail Blazers,262,1995,19441,140,30,63,39,0.402
+2013/14,Portland,Oregon,Portland Trail Blazers,262,1995,19441,153,11.7,88,44,0.659
+2014/15,Portland,Oregon,Portland Trail Blazers,262,1995,19441,157,4.1,94,42,0.622
+2015/16,Portland,Oregon,Portland Trail Blazers,262,1995,19441,178,41.2,72,45,0.537
+2016/17,Portland,Oregon,Portland Trail Blazers,262,1995,19441,223,25,128,47,0.5
+2017/18,Portland,Oregon,Portland Trail Blazers,262,1995,19441,246,40,136,49,0.598
+2018/19,Portland,Oregon,Portland Trail Blazers,262,1995,19441,287,51,143,67,0.646
+2019/20,Portland,Oregon,Portland Trail Blazers,262,1995,19441,240,27,133,48,0.473
+2020/21,Portland,Oregon,Portland Trail Blazers,262,1995,19441,201,19,110,6,0.583
+2021/22,Portland,Oregon,Portland Trail Blazers,262,1995,19441,291,81,134,54,0.329
+2022/23,Portland,Oregon,Portland Trail Blazers,262,1995,19441,300,65,156,59,0.402
+2001/02,Sacramento,California,Sacramento Kings,40,1985,"17,317",102,13.5,55,,0.744
+2002/03,Sacramento,California,Sacramento Kings,40,1985,"17,317",102,-16.8,73,,0.72
+2003/04,Sacramento,California,Sacramento Kings,40,1985,"17,317",118,10,72,,0.671
+2004/05,Sacramento,California,Sacramento Kings,40,1985,"17,317",119,0.6,64,,0.61
+2005/06,Sacramento,California,Sacramento Kings,40,1985,"17,317",126,16.4,67,,0.537
+2006/07,Sacramento,California,Sacramento Kings,40,1985,"17,317",128,20.5,68,,0.402
+2007/08,Sacramento,California,Sacramento Kings,40,1985,"17,317",117,7,67,,0.463
+2008/09,Sacramento,California,Sacramento Kings,40,1985,"17,317",109,-2.8,72,,0.207
+2009/10,Sacramento,California,Sacramento Kings,40,1985,"17,317",103,-9.8,72,,0.305
+2010/11,Sacramento,California,Sacramento Kings,40,1985,"17,317",104,6.4,50,23,0.293
+2011/12,Sacramento,California,Sacramento Kings,40,1985,"17,317",96,2.6,45,18,0.333
+2012/13,Sacramento,California,Sacramento Kings,40,1985,"17,317",115,12.5,61,19,0.341
+2013/14,Sacramento,California,Sacramento Kings,40,1985,"17,317",125,8.9,69,27,0.341
+2014/15,Sacramento,California,Sacramento Kings,40,1985,"17,317",141,4.2,81,29,0.354
+2015/16,Sacramento,California,Sacramento Kings,40,1985,"17,317",164,18.4,84,31,0.402
+2016/17,Sacramento,California,Sacramento Kings,558.2,2016,17583,240,50,109,51,0.39
+2017/18,Sacramento,California,Sacramento Kings,558.2,2016,17583,263,72,103,51,0.329
+2018/19,Sacramento,California,Sacramento Kings,558.2,2016,17583,286,81,107,60,0.476
+2019/20,Sacramento,California,Sacramento Kings,558.2,2016,17583,245,45,100,45,0.431
+2020/21,Sacramento,California,Sacramento Kings,558.2,2016,17583,192,25,79,3,0.431
+2021/22,Sacramento,California,Sacramento Kings,558.2,2016,17583,279,29,141,60,0.366
+2022/23,Sacramento,California,Sacramento Kings,558.2,2016,17583,289,36,145,70,0.585
+2001/02,San Antonio,Texas,San Antonio Spurs,186,2002,18418,83,8.3,46,,0.707
+2002/03,San Antonio,Texas,San Antonio Spurs,186,2002,18418,105,18.5,56,,0.732
+2003/04,San Antonio,Texas,San Antonio Spurs,186,2002,18418,108,23.7,50,,0.695
+2004/05,San Antonio,Texas,San Antonio Spurs,186,2002,18418,121,26.7,51,,0.72
+2005/06,San Antonio,Texas,San Antonio Spurs,186,2002,18418,122,11.7,67,,0.768
+2006/07,San Antonio,Texas,San Antonio Spurs,186,2002,18418,131,15.5,69,,0.707
+2007/08,San Antonio,Texas,San Antonio Spurs,186,2002,18418,138,19,74,,0.683
+2008/09,San Antonio,Texas,San Antonio Spurs,186,2002,18418,133,19.1,72,,0.659
+2009/10,San Antonio,Texas,San Antonio Spurs,186,2002,18418,135,-4.7,84,,0.61
+2010/11,San Antonio,Texas,San Antonio Spurs,186,2002,18418,139,14.4,74,51,0.744
+2011/12,San Antonio,Texas,San Antonio Spurs,186,2002,18418,135,14.7,65,48,0.758
+2012/13,San Antonio,Texas,San Antonio Spurs,186,2002,18418,167,39.4,77,63,0.707
+2013/14,San Antonio,Texas,San Antonio Spurs,186,2002,18418,172,40.9,71,66,0.756
+2014/15,San Antonio,Texas,San Antonio Spurs,186,2002,18418,170,31.9,76,59,0.671
+2015/16,San Antonio,Texas,San Antonio Spurs,186,2002,18418,187,18.4,98,62,0.817
+2016/17,San Antonio,Texas,San Antonio Spurs,186,2002,18418,259,59,123,78,0.744
+2017/18,San Antonio,Texas,San Antonio Spurs,186,2002,18418,262,63,126,73,0.573
+2018/19,San Antonio,Texas,San Antonio Spurs,186,2002,18418,285,66,142,76,0.585
+2019/20,San Antonio,Texas,San Antonio Spurs,186,2002,18418,255,63,115,55,0.451
+2020/21,San Antonio,Texas,San Antonio Spurs,186,2002,18418,205,39,81,3,0.458
+2021/22,San Antonio,Texas,San Antonio Spurs,186,2002,18418,306,99,118,69,0.415
+2022/23,San Antonio,Texas,San Antonio Spurs,186,2002,18418,319,79,110,73,0.268
+2001/02,Toronto,Canada,Toronto Raptors,288,1999,19800,87,4.5,53,,0.512
+2002/03,Toronto,Canada,Toronto Raptors,288,1999,19800,96,10.6,58,,0.293
+2003/04,Toronto,Canada,Toronto Raptors,288,1999,19800,100,-1.3,59,,0.402
+2004/05,Toronto,Canada,Toronto Raptors,288,1999,19800,94,5.4,65,,0.402
+2005/06,Toronto,Canada,Toronto Raptors,288,1999,19800,105,8.4,68,,0.329
+2006/07,Toronto,Canada,Toronto Raptors,288,1999,19800,124,28.8,57,,0.573
+2007/08,Toronto,Canada,Toronto Raptors,288,1999,19800,138,27.7,70,,0.5
+2008/09,Toronto,Canada,Toronto Raptors,288,1999,19800,133,18,78,,0.402
+2009/10,Toronto,Canada,Toronto Raptors,288,1999,19800,138,25.3,72,,0.488
+2010/11,Toronto,Canada,Toronto Raptors,288,1999,19800,134,7.4,75,40,0.268
+2011/12,Toronto,Canada,Toronto Raptors,288,1999,19800,121,18.8,49,31,0.348
+2012/13,Toronto,Canada,Toronto Raptors,288,1999,19800,149,28.8,73,41,0.415
+2013/14,Toronto,Canada,Toronto Raptors,288,1999,19800,151,17.9,81,47,0.585
+2014/15,Toronto,Canada,Toronto Raptors,288,1999,19800,163,23.5,87,48,0.598
+2015/16,Toronto,Canada,Toronto Raptors,288,1999,19800,193,46.1,83,57,0.683
+2016/17,Toronto,Canada,Toronto Raptors,288,1999,19800,250,51,121,65,0.622
+2017/18,Toronto,Canada,Toronto Raptors,288,1999,19800,275,76,127,74,0.72
+2018/19,Toronto,Canada,Toronto Raptors,288,1999,19800,334,79,146,101,0.707
+2019/20,Toronto,Canada,Toronto Raptors,288,1999,19800,264,79,115,57,0.736
+2020/21,Toronto,Canada,Toronto Raptors,288,1999,19800,194,2.1,108,1,0.375
+2021/22,Toronto,Canada,Toronto Raptors,288,1999,19800,299,86,137,55,0.585
+2022/23,Toronto,Canada,Toronto Raptors,288,1999,19800,305,75,156,82,0.5
+2001/02,Salt Lake City,Utah,Utah Jazz,93,1991,18306,87,1.9,54,,0.537
+2002/03,Salt Lake City,Utah,Utah Jazz,93,1991,18306,85,13.8,53,,0.573
+2003/04,Salt Lake City,Utah,Utah Jazz,93,1991,18306,88,9.4,38,,0.512
+2004/05,Salt Lake City,Utah,Utah Jazz,93,1991,18306,91,27.5,47,,0.317
+2005/06,Salt Lake City,Utah,Utah Jazz,93,1991,18306,96,1.4,61,,0.5
+2006/07,Salt Lake City,Utah,Utah Jazz,93,1991,18306,114,5.7,66,,0.622
+2007/08,Salt Lake City,Utah,Utah Jazz,93,1991,18306,119,8.8,69,,0.659
+2008/09,Salt Lake City,Utah,Utah Jazz,93,1991,18306,118,7.9,70,,0.585
+2009/10,Salt Lake City,Utah,Utah Jazz,93,1991,18306,121,-3.9,76,,0.646
+2010/11,Salt Lake City,Utah,Utah Jazz,93,1991,18306,120,-16.4,80,37,0.476
+2011/12,Salt Lake City,Utah,Utah Jazz,93,1991,18306,111,12.1,54,31,0.545
+2012/13,Salt Lake City,Utah,Utah Jazz,93,1991,18306,131,17.5,74,36,0.524
+2013/14,Salt Lake City,Utah,Utah Jazz,93,1991,18306,142,32.7,64,36,0.305
+2014/15,Salt Lake City,Utah,Utah Jazz,93,1991,18306,146,27.5,67,36,0.463
+2015/16,Salt Lake City,Utah,Utah Jazz,93,1991,18306,164,36,74,37,0.488
+2016/17,Salt Lake City,Utah,Utah Jazz,93,1991,18306,221,61,95,43,0.622
+2017/18,Salt Lake City,Utah,Utah Jazz,93,1991,18306,243,59,120,57,0.585
+2018/19,Salt Lake City,Utah,Utah Jazz,93,1991,18306,258,63,129,58,0.61
+2019/20,Salt Lake City,Utah,Utah Jazz,93,1991,18306,226,42,116,46,0.611
+2020/21,Salt Lake City,Utah,Utah Jazz,93,1991,18306,262,96,91,18,0.722
+2021/22,Salt Lake City,Utah,Utah Jazz,93,1991,18306,308,58,151,68,0.598
+2022/23,Salt Lake City,Utah,Utah Jazz,93,1991,18306,274,46,154,65,0.451
+2001/02,Washington DC,Washington DC,Washington Wizards,260,1997,20356,99,12.7,53,,0.451
+2002/03,Washington DC,Washington DC,Washington Wizards,260,1997,20356,98,28.5,49,,0.451
+2003/04,Washington DC,Washington DC,Washington Wizards,260,1997,20356,94,14.3,49,,0.305
+2004/05,Washington DC,Washington DC,Washington Wizards,260,1997,20356,106,21.5,53,,0.549
+2005/06,Washington DC,Washington DC,Washington Wizards,260,1997,20356,108,14.8,58,,0.512
+2006/07,Washington DC,Washington DC,Washington Wizards,260,1997,20356,112,11.6,67,,0.5
+2007/08,Washington DC,Washington DC,Washington Wizards,260,1997,20356,118,14.9,66,,0.524
+2008/09,Washington DC,Washington DC,Washington Wizards,260,1997,20356,110,4.9,69,,0.232
+2009/10,Washington DC,Washington DC,Washington Wizards,260,1997,20356,107,-5.2,73,,0.317
+2010/11,Washington DC,Washington DC,Washington Wizards,260,1997,20356,109,-3.4,63,24,0.28
+2011/12,Washington DC,Washington DC,Washington Wizards,260,1997,20356,102,1.7,52,19,0.303
+2012/13,Washington DC,Washington DC,Washington Wizards,260,1997,20356,122,7,72,23,0.354
+2013/14,Washington DC,Washington DC,Washington Wizards,260,1997,20356,143,10.1,86,27,0.537
+2014/15,Washington DC,Washington DC,Washington Wizards,260,1997,20356,146,2.9,89,31,0.561
+2015/16,Washington DC,Washington DC,Washington Wizards,260,1997,20356,155,6.6,95,30,0.5
+2016/17,Washington DC,Washington DC,Washington Wizards,260,1997,20356,222,21,119,48,0.598
+2017/18,Washington DC,Washington DC,Washington Wizards,260,1997,20356,255,34,136,54,0.524
+2018/19,Washington DC,Washington DC,Washington Wizards,260,1997,20356,269,55,142,53,0.39
+2019/20,Washington DC,Washington DC,Washington Wizards,260,1997,20356,231,39,117,37,0.347
+2020/21,Washington DC,Washington DC,Washington Wizards,260,1997,20356,213,15,109,5,0.472
+2021/22,Washington DC,Washington DC,Washington Wizards,260,1997,20356,291,90,130,47,0.427
+2022/23,Washington DC,Washington DC,Washington Wizards,260,1997,20356,323,85,159,63,0.427
